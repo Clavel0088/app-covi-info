@@ -1,0 +1,11 @@
+.block-center{
+	border: 3px solid #9C9C9C;
+	box-shadow: 8px 8px 12px #aaa;
+}
+.navLink{
+	color: #f9b507;
+	text-align: center;
+	font-family:sans-serif;
+	font-style: bold;
+	font-size: 14px;
+}
